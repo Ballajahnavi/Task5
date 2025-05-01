@@ -48,7 +48,7 @@ It follows a structured machine learning pipeline including model training, visu
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 Decision Tree Accuracy: 0.85
 Random Forest Accuracy: 0.91
