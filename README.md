@@ -51,9 +51,6 @@ It follows a structured machine learning pipeline including model training, visu
 ## 📊 Example Output
 
 Decision Tree Accuracy: 0.85
-
 Random Forest Accuracy: 0.91
-
 Cross-Validation Scores: [0.86, 0.88, 0.84, 0.90, 0.87]
-
 Average CV Accuracy: 0.87
